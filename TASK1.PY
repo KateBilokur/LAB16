@@ -4,6 +4,7 @@ from nltk.probability import FreqDist
 import matplotlib.pyplot as plt
 import string
 
+
 # Завантаження пакету стоп-слів
 nltk.download('stopwords')
 nltk.download('gutenberg')
